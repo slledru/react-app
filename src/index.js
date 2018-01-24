@@ -5,7 +5,9 @@ import Game from './tictactoc/game';
 // ========================================
 
 ReactDOM.render(
-  <Game />,
-  <Game />,
+  <div>
+  <Game />
+  <Game />
+</div>,
   document.getElementById('root')
 );
