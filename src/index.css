@@ -1,0 +1,8 @@
+ul {
+  list-style-type: none;
+}
+
+.root {
+  display:inline-block;
+  margin-right: 50px;
+}
